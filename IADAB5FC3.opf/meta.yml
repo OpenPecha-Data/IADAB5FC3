@@ -1,0 +1,30 @@
+id: IADAB5FC3
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-31T06:41:26.517725'
+last_modified: '2022-05-31T06:41:26.517755'
+parser: null
+source_metadata:
+  title: Nyoshul Lungtok Series
+  language: en
+  description: 'Texts by the great Dzogchen master Nyoshul Lungtok Tenpe Nyima (smyo
+    shul lung rtogs bstan pa''i nyi ma, 1829–1901/2):'
+  volume:
+    f4F44:
+      title: Bodhicitta Aspiration
+      base_file: f4F44.txt
+      order: 1
+      parent: Prayers and Practices
+    fEEEE:
+      title: Prayer to Avalokiteśvara
+      base_file: fEEEE.txt
+      order: 2
+      parent: Prayers and Practices
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
